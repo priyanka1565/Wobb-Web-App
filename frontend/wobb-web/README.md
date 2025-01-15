@@ -21,20 +21,21 @@ Wobb is an influencer marketing platform that connects influencers with brands f
 
 To run this project locally, follow these steps:
 
-### Prerequisites
+### Prerequisites or How to run project
 
 - **Node.js**: Ensure that you have [Node.js](https://nodejs.org/) installed. You can check the version by running:
   ```bash
+
 1. node -v
 
-2. git clone https://github.com/your-username/wobb-web-app.git
+2. git clone https://github.com/priyanka1565/Wobb-Web-App
 
 3. npm install
 
 4. npm start
 This will start the development server and you can view the app at http://localhost:3000/ in your browser.
 
-File Structure
+## File Structure
 
 /wobb-web-app
 ├── /public
